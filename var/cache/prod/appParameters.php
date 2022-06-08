@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => 'localhost',
+    'database_port' => '',
+    'database_name' => 'prestadev_soliduskodas_lt',
+    'database_user' => 'prestadev_solidu',
+    'database_password' => 'NDsYkn9tfRciFR3',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => 'nSAYM3NiERVG1mXxoC4Y1MmmW3Isg7HBF6tiAsVOZ3fyrZukjkRRwLMAU8uSuPMR',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2022-06-07',
+    'locale' => 'en-US',
+    'use_debug_toolbar' => true,
+    'cookie_key' => '68fp8cyI6uwDRK745M5xI3TFWHAhvy3XVu4aj1FRfVDH49hcUh7UC4izKdEmNYKn',
+    'cookie_iv' => 'QVKEJWPK8qrvfxX7CaDqvCJ0d3bkZW6M',
+    'new_cookie_key' => 'def00000d2355e0f7a4dde170625de76329182549862518b98a119e5c70784f2ad0f31e260b487e7003a3e9a6404df3b678841e8c938151ce8e08677efac24d953542fc0',
+  ),
+);
